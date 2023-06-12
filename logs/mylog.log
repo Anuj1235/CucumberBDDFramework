@@ -1,0 +1,19 @@
+[FATAL] 2023-06-11 22:39:56.607 [main] StepDefinition - Setup1 executed...
+[INFO ] 2023-06-11 22:39:56.846 [main] StepDefinition - chrome browser launched=======
+[INFO ] 2023-06-11 22:39:58.667 [main] StepDefinition - url opened =========
+[INFO ] 2023-06-11 22:39:59.287 [main] StepDefinition - email address and password entered ==========
+[INFO ] 2023-06-11 22:40:03.371 [main] StepDefinition - Clicked on login button=========
+[INFO ] 2023-06-11 22:40:03.380 [main] StepDefinition - user can view dashboard test passed.====
+[INFO ] 2023-06-11 22:40:03.479 [main] StepDefinition - customer menu clicked===
+[INFO ] 2023-06-11 22:40:07.230 [main] StepDefinition - customer menu item clicked==
+[INFO ] 2023-06-11 22:40:08.768 [main] StepDefinition - clicked on add new button.
+[INFO ] 2023-06-11 22:40:08.789 [main] StepDefinition - User can view Add new customer page- passed==
+[FATAL] 2023-06-11 22:40:12.044 [main] StepDefinition - Setup1 executed...
+[INFO ] 2023-06-11 22:40:12.225 [main] StepDefinition - chrome browser launched=======
+[INFO ] 2023-06-11 22:40:13.932 [main] StepDefinition - url opened =========
+[INFO ] 2023-06-11 22:40:14.386 [main] StepDefinition - email address and password entered ==========
+[INFO ] 2023-06-11 22:40:18.793 [main] StepDefinition - Clicked on login button=========
+[WARN ] 2023-06-11 22:40:18.834 [main] StepDefinition - Test passed: Login feature :Page title matched.====
+[INFO ] 2023-06-11 22:40:20.415 [main] StepDefinition - user clicked on logout link.======
+[WARN ] 2023-06-11 22:40:20.430 [main] StepDefinition - Test passed: Login feature :Page title matched.====
+[INFO ] 2023-06-11 22:40:20.637 [main] StepDefinition - Browser closed====
